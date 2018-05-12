@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37568
     wikipedia: http://en.wikipedia.org/wiki/David_Peck_Todd
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39142#Astronomy--The-Science-of-the-Heavenly-Bodies
 gutenberg_issued: '2012-03-15'
 gutenberg_type: Text
 identifiers:
